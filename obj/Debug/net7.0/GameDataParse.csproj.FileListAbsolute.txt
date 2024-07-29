@@ -1,0 +1,17 @@
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/GameDataParse
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/GameDataParse.deps.json
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/GameDataParse.runtimeconfig.json
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/GameDataParse.dll
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/GameDataParse.pdb
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.csproj.AssemblyReference.cache
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.AssemblyInfoInputs.cache
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.AssemblyInfo.cs
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.csproj.CoreCompileInputs.cache
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.csproj.CopyComplete
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.dll
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/refint/GameDataParse.dll
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.pdb
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/GameDataParse.genruntimeconfig.cache
+/Users/hamidqureshi/Projects/Exceptions/GameDataParse/obj/Debug/net7.0/ref/GameDataParse.dll
