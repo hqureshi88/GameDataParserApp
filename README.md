@@ -6,9 +6,10 @@ course on Udemy, learning about exceptions and error handling.
 Below is an example of what the program displays on console window when you run the application on Visual Studio and entering the local file,
 'gamesInvalidFormat.json', it will throw an exception in red like below
 
-```Enter the name of the file you want to read:
+```
+Enter the name of the file you want to read:
 gamesInvalidFormat.json
-<span style="color:red;">
+
 JSON in gamesInvalidFormat.json file was not in a valid format. JSON body:
 [
   {
@@ -37,7 +38,7 @@ JSON in gamesInvalidFormat.json file was not in a valid format. JSON body:
     "Rating": 4.8
   }
 ]
-</span>
+
 Sorry! The application has experienced an unexpected error and will have to be closed.
 Press any key to close.
 ```
